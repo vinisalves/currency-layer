@@ -24,7 +24,7 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 20px;
-  background-color: #111;
+  background-color: var(--primary-color);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
 }
 
