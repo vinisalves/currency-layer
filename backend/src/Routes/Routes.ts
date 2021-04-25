@@ -5,6 +5,6 @@ export default class Routes {
   public route(app: Application): void {
     const currencyObj = new CurrencyController();
     app.get("/api/currencies", currencyObj.getCurrencies);
-    app.get("/api/list", currencyObj.getCountryList);
+    app.get("/api/countries", currencyObj.getCountryList);
   }
 }
