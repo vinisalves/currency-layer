@@ -24,7 +24,7 @@ const store = {
     this.state.currencies = currencies;
   },
   async getCountries(): Promise<void> {
-    const result = await fetch(`${api}/list`).then((response) =>
+    const result = await fetch(`${api}/countries`).then((response) =>
       response.json()
     );
 

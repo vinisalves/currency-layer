@@ -9,12 +9,12 @@ const server = app.listen(process.env.PORT, () => {
 const request = superTest(server);
 
 test("Check Country List", async (done) => {
-  const response = await request.get("/api/list");
+  const response = await request.get("/api/countries");
   expect(response.status).toBe(200);
   done();
 });
 test("Check Country List", async (done) => {
-  const response = await request.get("/api/list");
+  const response = await request.get("/api/currencies");
   expect(response.status).toBe(200);
   done();
 });
