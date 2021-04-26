@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/dynamic/json?color=blue&label=currency-layer&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fvinisalves%2Fcurrency-layer%2Fmain%2Ffrontend%2Fpackage.json)
 
 Currreny Layer is a web responsive project using Vuejs3 + Typescript + NodeJs.
-This app fetches currency data from all countries available on [Currency Layer api's](https://currencylayer.com/).
+This app fetches currencies data from all countries available on [Currency Layer api's](https://currencylayer.com/).
 
 # Web Layout
 
