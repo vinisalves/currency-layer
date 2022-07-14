@@ -14,9 +14,6 @@ This app fetches currencies data from all countries available on [Currency Layer
 # Responsive Layout
 
 ![App Gif](./assets/responsive.gif "Responsive Layout")
-# Live Demo
-<a  href="https://apps.vinibr.com/currency-layer/" target="_blank" rel="noopener noreferrer">https://apps.vinibr.com/currency-layer/</a>
-
 
 # Technologies
 
